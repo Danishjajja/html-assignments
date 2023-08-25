@@ -3,6 +3,8 @@ p{
 }
 #malta{
     width: 23px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 #topicons{}
@@ -11,11 +13,13 @@ p{
     background-color:red;
     color: rgb(255, 255, 255);
     border-color:white;
+    border-radius: 7px;
+    
 
 }
 
 #home,#fruits,#services,#contactus,#searchicon,#getaquote{
-    margin: 20px;
+    margin: 15px;
 }
 #tropiko{
     margin-right: 500px;
@@ -24,10 +28,16 @@ p{
     background-color:red;
     border-color: white;
     color: white;
+    margin-right:px;
+    margin-left: 10px;
+    border-radius: 7px;
+    padding: 9px;
 }
 #contactus{
     background-color: black;
     color: white;
+    border-radius: 7px;
+    padding: 9px;
 }
 #searchicon{
     height: px;
@@ -35,14 +45,213 @@ p{
     margin-top:;
 }
 #welcometoour{
-    width: 450px;
-    height: 500px;
+    width: 25%;
+     margin-top: 70px;
+     width: 50pxpx;
+     padding-left: 40px;
+     font-size: 20px;
 }
 #slideimage{
-    width: 50px;
-    height: 200px;
-
+    
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 80px;
+    height: 350;
 }
 #maindiv2{
-display: flex;
+    display: flex;
+}
+#maindiv1{
+background-color:rgb(241, 235, 235) ;
+}
+#ourservices{
+    text-align: center;
+    margin-top: 80px;
+}
+#para2{
+text-align: center;
+margin:;
+}
+#maltapara{
+    background-color: #f3eeee;
+    display: inline-block;
+    width: 300px;
+    margin: 30px;
+    margin-left: 100px;
+    height: 300%;
+}
+#grapespara{
+    background-color: #f3eeee;
+ border: 5px;
+    display: inline-block;
+    width: 300px;
+    margin: 30px;
+    height: 40%;
+}#guavapara{
+    background-color: #f3eeee;
+border: 5px;
+    display: inline-block;
+    width: 300px;
+    margin: 30px;
+    
+}
+#readmore{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 9px;
+    border-radius: 7px;
+}
+#para4{
+text-align: center;
+}
+#freshfruits{
+    text-align: center;
+}
+#buynow{
+    background-color: black;
+    padding: 9px;
+    color: white;
+    border-radius: 7px;
+    margin-top: 30px;
+}
+#maindiv3part1{
+    display: inline-block;
+    width: 700px;
+    -webkit-margin-collapse: 100px;
+}
+#orangepng{
+margin: 130px;
+}
+#maindiv4part1{
+    display: inline-block;
+    width: 700px;
+    -webkit-margin-collapse: 100px;
+    margin-top: 20px;
+}
+#grapespng{
+margin: 130px;
+}#maindiv5part1{
+    display: inline-block;
+    width: 700px;
+    -webkit-margin-collapse: 100px;
+    margin-right: 120px;
+    margin-top: 30px;
+}
+#guavapng{
+margin: 130px;
+margin-top: 20px;
+}
+#bestfreshgrapes{
+margin-bottom: 2px;
+margin-top: 60px;
+}
+#para6{
+margin-top: 2px;
+}
+#bestfreshorange{
+    margin-bottom: 2px;
+    
+    }
+    #para5{
+    margin-top: 2px;
+    }
+    #bestfreshguava{
+        margin-bottom: 2px;
+        margin-top: 60px;
+        }
+        #para7{
+        margin-top: 2px;
+        }
+        #testimonial{
+            text-align: center;
+            padding-top: 80px;
+        }
+        #para8{
+            text-align: center;
+        }
+        #client{
+text-align: center;
+margin-top: 20px;
+        }
+        #johnhex{
+text-align: center;
+        }
+        #para9{
+            text-align:center;
+        }
+        #cantactus{
+font-size: 40px;
+        }
+        #send{
+            background-color: red;
+            color: white;
+            border-radius: 7px;
+            padding: 6px;
+        }
+        #maindiv6{
+            display: inline;
+            margin-top: 100px;
+            margin-bottom: 200px;
+        }
+        #maindiv6part1{
+width:63% ;
+display: inline-block;
+margin-top: 70px;
+margin-bottom: 50px;
+
+        }
+        #maindiv6part2{
+display: inline-block;
+width:35% ;
+margin-right: 2px;
+
+}
+#orangedish{
+height: 300px;
+display: inline-block;
+width: 180px;
+margin-left: 250px;
+}
+#maindiv7{
+   display: inline-block;
+}
+#maindiv7part1{
+    width: 10%;
+    margin: 55px;
+    display: inline-block;
+}
+#maindiv7part2{
+    width: 10%;
+    margin: 55px;
+    display: inline-block;
+}#maindiv7part3{
+    width: 10%;
+    margin: 55px;
+    display: inline-block;
+}#maindiv7part4{
+    width: 33%;
+    margin: 51px;
+    display: inline-block;
+}
+#subscribe{
+margin:10px;
+color: white;
+background-color: red;
+border-radius: 7px;
+}
+#lastdiv{
+    background-color: #e7dbdb;
+    text-align: center;
+    margin: 70px;
+}
+#textarea{
+padding-top: 1px;
+margin-top: 5px;
+}
+#{
+    padding-bottom: 2px;
+    margin-bottom: 2px;
 }
